@@ -5,6 +5,8 @@ Breve descrição do que o seu projeto faz.
 ## :technologist: Membros da equipe
 
 Matrícula, nome e curso dos participantes.
+Maicon Silva do Nascimento - Ciências da Computação, 537229
+Luis Guilherme Xavier da Silva - Ciências da Computação, 540056
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
